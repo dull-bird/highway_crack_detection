@@ -129,7 +129,7 @@ def main_loop(dir, name_list):
 if __name__ == '__main__':
     warnings.filterwarnings('ignore')
     for i in range(0, 3):
-        print(str(i) + ' ：' + 'E:\\pics\\IMG0\\')
+        print(str(i) + ' ：' + 'E:\\pics\\IMG' + str(i) + '\\')
     dir = 'E:\\pics\\IMG'
     dir_num = input('请选择图像集，若需指定地址请输入-1：\n')
     if dir_num == '-1':
