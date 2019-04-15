@@ -1,2 +1,2 @@
 # highway_crack_detection
-My BEng project.
+My BEng thesis project.
