@@ -2,6 +2,8 @@
 
 Code of my BEng thesis project in Zhejiang University (2017-2018): highway crack detection (高速公路裂纹检测).
 
+[Thesis (中文)](https://github.com/dull-bird/highway_crack_detection/blob/master/%E6%AF%95%E8%AE%BE.pdf)
+
 The algorithm is more about feature engineering. Due to the limitation of computing power, we don't use deep learning.
 
 The detection algorithms are mainly divided into the following four steps:
